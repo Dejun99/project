@@ -1,1 +1,1 @@
-# project
+# Learn file name conventions and project organization. Create virtual environment for projects.
